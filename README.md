@@ -1,4 +1,4 @@
-<h1><a href="http://www.ghughes13.com"> PortfolioSite</a></h1>
+<h1><a href="https://edith504.github.io/xingyan.github.io/"> PortfolioSite</a></h1>
 
 My developer portfolio
 
@@ -9,5 +9,5 @@ My developer portfolio
 
 <h2>ToDo</h2>
 <ul>
-  <li>Add sites I've built from work</li>
+  <li>Add sites I've built</li>
 </ul>
